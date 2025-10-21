@@ -1,5 +1,5 @@
 # 🚴‍♂️ Google Data Analytics Capstone Project: Cyclistic Bike Share
-**Okt 2022 – Nov 2022**
+**Period: October 2022 – November 2022**
 
 ## Project Overview
 **Cyclistic Bike Share: Converting Casual Riders into Annual Members**  
